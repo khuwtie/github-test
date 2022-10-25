@@ -1,7 +1,0 @@
-I believe programming languages have personalities.
-
-javaIsVeryChattyAndLikesToIncludeAllTheGossip.OhDidITellYou?
-
-COBOL AND FORTRAN ARE SHOUTY
-
-ruby.Concise
